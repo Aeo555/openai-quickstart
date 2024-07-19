@@ -150,3 +150,6 @@ Django Peng - pjt73651@email.com
 
 ### query image description
 ![query_image_description](homework_imgs/query_image_description.png)
+
+### ai translator
+![ai_translator](homework_imgs/ai_translator.png)

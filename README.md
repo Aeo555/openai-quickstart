@@ -146,3 +146,7 @@ Django Peng - pjt73651@email.com
 
 项目链接: https://github.com/DjangoPeng/openai-quickstart
 
+## Homework
+
+### query image description
+![query_image_description](homework_imgs/query_image_description.png)

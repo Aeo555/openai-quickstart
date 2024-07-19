@@ -153,3 +153,6 @@ Django Peng - pjt73651@email.com
 
 ### ai translator
 ![ai_translator](homework_imgs/ai_translator.png)
+
+### langchain
+![langchain](homework_imgs/langchain_chains.png)

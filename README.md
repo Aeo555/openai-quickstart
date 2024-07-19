@@ -156,3 +156,6 @@ Django Peng - pjt73651@email.com
 
 ### langchain
 ![langchain](homework_imgs/langchain_chains.png)
+
+### car_sales_chatbot
+![car_sales_chatbot](homework_imgs/car_sales_chatbot.png)
